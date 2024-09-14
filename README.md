@@ -1,2 +1,1 @@
-# vanish-token-gen
-WIP
+25 stars = start working on it (❌)
